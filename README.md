@@ -49,17 +49,17 @@ MembershipManager
 
 ## 실행 화면
 
-### 로그인 화면
-![login](docs/login.png)
+### JSON 데이터 저장 구조
+![JSON Data](MembershipManager/docs/json-data.png)
 
-### 로그인 결과
-![login result](docs/login-result.png)
+### 로그인 실패
+![Login Fail](MembershipManager/docs/login-result_fail.png)
 
-### 회원 관리
-![member manager](docs/member-manager.png)
+### 로그인 성공
+![Login Success](MembershipManager/docs/login-result_success.png)
 
-### JSON 데이터 저장
-![json](docs/json-data.png)
+### 회원 관리 화면
+![Member Manager](MembershipManager/docs/member-manager.png)
 
 ---
 

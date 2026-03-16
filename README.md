@@ -44,10 +44,10 @@ MembershipManager
   "Password": "SHA256_HASH",
   "Role": "Admin"
 }
+```
 
 ---
 
----
 
 ## 실행 화면
 

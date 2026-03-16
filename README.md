@@ -3,7 +3,7 @@
 C# WinForms 기반으로 구현한 **회원 관리 프로그램**입니다.  
 회원 정보를 JSON 파일로 저장하고 로그인 및 관리자 권한 기반 접근 제어 기능을 구현했습니다.
 
----
+```
 ## Architecture
 
 MembershipManager

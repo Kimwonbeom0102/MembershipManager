@@ -123,5 +123,10 @@ namespace MembershipManager
 
             RefreshGrid();
         }
+
+        private void btnShowAll_Click(object sender, EventArgs e)
+        {
+            RefreshGrid();
+        }
     }
 }

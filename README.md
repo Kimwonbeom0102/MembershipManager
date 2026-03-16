@@ -62,7 +62,7 @@ MembershipManager
 ### 로그인 성공
 ![Login Success](MembershipManager/docs/login-result_success.png)
 
-### 회원 관리 화면
+### 회원 관리 화면 (관리자 접근)
 ![Member Manager](MembershipManager/docs/member-manager.png)
 
 ---

@@ -47,6 +47,8 @@ MembershipManager
 
 ---
 
+---
+
 ## 실행 화면
 
 ### JSON 데이터 저장 구조
